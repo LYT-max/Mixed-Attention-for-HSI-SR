@@ -3,7 +3,7 @@
 
 Dataset
 
-** We also provide the code about data pre-processing in floder "data pre-processing". The floder main contains two parts, including training set augment, test set pre-processing, and band mean for all training set.**
+** We also provide the code about data pre-processing in floder "data pre-processing". The floder main contains two parts, including training set augment and test set pre-processing.**
 
 Requirement
 ---------
